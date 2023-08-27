@@ -1,6 +1,6 @@
 var lastname= 'David';
-Lastname = 'Oscar';
-console.log(Lastname);
+lastname = 'Oscar';
+console.log(lastname);
 
 let fruit = 'Apple';
 fruit='Kiwi';
